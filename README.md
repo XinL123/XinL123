@@ -16,27 +16,7 @@ Vanderbilt University student building human-centered AI systems and interactive
 
 ## Tech Stack
 
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white)
-
-LLM Evaluation · RAG · Vector Embeddings · Semantic Retrieval · Fine-Tuning · Tool Calling · Structured Outputs
-
-**Engineering**
-
-![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-30363D?style=flat-square&logo=vercel&logoColor=white)
-
-Java · SQL
-
-**HCI / Design**
-
-![Figma](https://img.shields.io/badge/Figma-30363D?style=flat-square&logo=figma&logoColor=white)
-
-User Research · Interaction Design · Information Architecture · Usability Testing · Design Systems
+![Python, Java, Figma, R, HTML5, CSS3](https://skillicons.dev/icons?i=python,java,figma,r,html,css&theme=dark&perline=6)
 
 ---
 
