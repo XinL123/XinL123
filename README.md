@@ -6,7 +6,7 @@ Vanderbilt University student building human-centered AI systems and interactive
 
 ---
 
-## Currently
+## 🌱 Currently
 
 🔬 Researching explainable AI for public-service information systems  
 🧠 Exploring LLM evaluation, RAG, and trustworthy AI interactions  
@@ -14,7 +14,7 @@ Vanderbilt University student building human-centered AI systems and interactive
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -26,7 +26,7 @@ Vanderbilt University student building human-centered AI systems and interactive
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 
 | Project | Description | Stack |
 | --- | --- | --- |
