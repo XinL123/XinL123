@@ -1,8 +1,6 @@
 # Hi, I'm Christus 👋
 
-Vanderbilt University student working across AI systems, Human-AI Interaction, HCI, and product engineering.
-
-I build human-centered AI systems and interactive products with a focus on LLM evaluation, RAG, and trustworthy interaction.
+Vanderbilt University student building human-centered AI systems and interactive products across LLM evaluation, RAG, HCI, and Human-AI Interaction.
 
 [Portfolio](https://christusluo.com/) · [LinkedIn](https://www.linkedin.com/in/christus-luo)
 
