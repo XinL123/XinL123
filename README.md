@@ -33,4 +33,4 @@ Vanderbilt University student building human-centered AI systems and interactive
 | [**Mercury Voice**](https://xinl123.github.io/Mercury-Voice/) | Interactive underwater voice visualizer where sound reshapes bubbles in a living WebGL reef. | JavaScript · WebGL |
 | [**Dog Fetch Game**](https://xinl123.github.io/Dog-Fetch-Game/) | Playful browser-based virtual dog fetch experience. | JavaScript · React · Vite |
 | [**Personal Portfolio**](https://christusluo.com/) | Designed and built my personal portfolio to present AI, HCI, product, and creative technology projects through interactive case studies.<br><br>Private repository — access available upon request. | HTML · CSS · JavaScript · Vite |
-| [**VandyHacks**](https://vandyhacks.org/) | Designed and improved the UX of Vanderbilt's annual hackathon website, supporting 250+ participants. | — |
+| [**VandyHacks**](https://vandyhacks.org/) | Designed and improved the UX of Vanderbilt's annual hackathon website, supporting 250+ participants. | Figma · JavaScript · Vite |
