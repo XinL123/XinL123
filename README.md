@@ -30,7 +30,7 @@ Vanderbilt University student building human-centered AI systems and interactive
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**Into the Painting**](https://xinl123.github.io/Into-the-Painting/) | Interactive discovery experience that spotlights the small, hidden stories inside *Along the River During the Qingming Festival*. | JavaScript · GSAP · Vite |
+| [**Into the Painting**](https://xinl123.github.io/Into-the-Painting/) | Interactive discovery experience that spotlights the small, hidden stories inside traditional Chinese paintings. | JavaScript · GSAP · Vite |
 | [**Mercury Voice**](https://xinl123.github.io/Mercury-Voice/) | Interactive underwater voice visualizer where sound reshapes bubbles in a living WebGL reef. | JavaScript · WebGL |
 | [**Dog Fetch Game**](https://xinl123.github.io/Dog-Fetch-Game/) | Playful browser-based virtual dog fetch experience. | JavaScript · React · Vite |
 | [**Personal Portfolio**](https://christusluo.com/) | Designed and built my personal portfolio to present AI, HCI, product, and creative technology projects through interactive case studies.<br><br>Private repository — access available upon request. | HTML · CSS · JavaScript · Vite |
